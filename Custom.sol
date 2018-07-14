@@ -3,6 +3,7 @@ pragma solidity ^0.4.24;
 // ----------------------------------------------------------------------------
 // SnakeTest token contract
 //
+// Contract address:  0x3d8A3da35aebda0FC0cB6fD351e483581975955e
 // Deployed to : 0x528cf9a9514a38ddd07fb24d82acb37d28021c22
 // Symbol      : STN
 // Name        : Snake Token
